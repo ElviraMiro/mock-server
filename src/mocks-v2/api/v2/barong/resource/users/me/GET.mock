@@ -1,0 +1,6 @@
+HTTP/2 200 
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+
+{"email":"qa@tunex.io","uid":"IDEBA97BCD9A","role":"superadmin","level":3,"otp":false,"state":"active","referral_uid":null,"data":null,"created_at":"2019-12-23T08:25:51Z","updated_at":"2019-12-23T08:25:51Z","labels":[{"key":"email","value":"verified","scope":"private","created_at":"2019-12-23T08:25:51Z","updated_at":"2019-12-23T08:25:51Z"},{"key":"phone","value":"verified","scope":"private","created_at":"2019-12-23T08:25:51Z","updated_at":"2019-12-23T08:25:51Z"},{"key":"document","value":"verified","scope":"private","created_at":"2019-12-23T08:25:51Z","updated_at":"2019-12-23T08:25:51Z"},{"key":"market","value":"maker","scope":"private","created_at":"2019-12-23T10:55:51Z","updated_at":"2019-12-23T10:55:51Z"}],"phones":[],"profile":null}

@@ -1,0 +1,10 @@
+HTTP/2 200
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+
+[{"id":"l1str004usdc","name":"L1STR004/USDC","base_unit":"l1str004","quote_unit":"usdc","min_price":"0.01","max_price":"1000000.0","min_amount":"0.001","amount_precision":3,"price_precision":2,"state":"enabled"},
+{"id":"l1str003usdc","name":"L1STR004/USDC","base_unit":"l1str003","quote_unit":"usdc","min_price":"0.01","max_price":"1000000.0","min_amount":"0.001","amount_precision":3,"price_precision":2,"state":"enabled"}]

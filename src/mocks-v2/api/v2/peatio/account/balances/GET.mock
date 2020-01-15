@@ -1,0 +1,9 @@
+HTTP/2 200
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+
+[{"currency":"l1str004","balance":"3.0","locked":"0.0"},{"currency":"eth","balance":"2.0","locked":"0.0"},{"currency":"usdc","balance":"0.998","locked":"0.0"}]
